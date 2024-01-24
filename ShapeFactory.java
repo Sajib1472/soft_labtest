@@ -14,6 +14,7 @@ public class ShapeFactory {
         }
         return null;
     }
+    
     public static ShapeFactory getInstance()
     {
         if (ins == null)
