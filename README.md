@@ -1,2 +1,2 @@
-Every lab task have seperate branch
-learn to use git and github
+Every lab task have seperate branch.
+Learn to use git and github
